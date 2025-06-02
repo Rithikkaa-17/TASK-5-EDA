@@ -35,7 +35,7 @@ This project presents a comprehensive Exploratory Data Analysis (EDA) of the Sup
 
 2. Univariate Analysis
 
-   * Histograms for `Sales`, `Profit`, `Quantity`, and `Discount`
+   * Histograms for `Sales`, `Profit`, `Quantity` and `Discount`
 
 3. Bivariate Analysis
 
